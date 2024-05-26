@@ -11,7 +11,7 @@
 5. Implement a ransomware scenario.
 6. How to prevent this attack.
 
-## Arithmétique modulaire
+## Modular arithmetic
 The objective of this project is to first explain the problem of implementing modular reductions, to present the various proposed algorithms, and to implement a general modular reduction algorithm while specifying its complexity.
 
 ## System Security
